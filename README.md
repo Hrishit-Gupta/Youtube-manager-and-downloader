@@ -1,7 +1,7 @@
 # Youtube-manager-and-downloader
 <br>
 <br>
-This repo is useful for downloading video from youtube in high resolution and then manage a list of these videos along with their stream time.
+This repo is useful for downloading videos from youtube in high resolution and then manage a list of these videos along with their stream time.
 <br>
 <br>
 To start with this repo , firstly clone this repo in your local system and then install the requirements by simple running the command :
